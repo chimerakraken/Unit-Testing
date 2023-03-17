@@ -11,3 +11,20 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CoreCompileInputs.cache
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Workspace\unit tests\Unit-Testing\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
