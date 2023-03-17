@@ -443,3 +443,7 @@ File Finder · GitHub
 bin
 obj
 config
+dll
+pdb
+cache
+suo
