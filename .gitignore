@@ -447,3 +447,16 @@ dll
 pdb
 cache
 suo
+TestNinja/.vs/TestNinja/v16/TestStore/0/000.testlog
+TestNinja/.vs/TestNinja/v16/.suo
+TestNinja/.vs/TestNinja/v16/TestStore/0/000.testlog
+TestNinja/TestNinja.UnitTests/bin/Debug/TestNinja.dll
+TestNinja/TestNinja.UnitTests/bin/Debug/TestNinja.pdb
+TestNinja/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.dll
+TestNinja/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.csprojAssemblyReference.cache
+TestNinja/TestNinja.UnitTests/bin/Debug/TestNinja.UnitTests.pdb
+TestNinja/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.dll
+TestNinja/TestNinja/obj/Debug/TestNinja.csprojAssemblyReference.cache
+TestNinja/TestNinja.UnitTests/obj/Debug/TestNinja.UnitTests.pdb
+TestNinja/TestNinja/obj/Debug/TestNinja.dll
+TestNinja/TestNinja/obj/Debug/TestNinja.pdb
