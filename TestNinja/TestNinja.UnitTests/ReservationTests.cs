@@ -5,7 +5,7 @@ using TestNinja.Fundamentals;
 namespace TestNinja.UnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class ReservationTests
     {
         [TestMethod]
         // standard for naming test methods 
